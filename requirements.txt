@@ -1,0 +1,36 @@
+# Python dependencies
+pandas
+numpy
+matplotlib
+seaborn
+biopython
+pybedtools
+scipy
+
+# Bioinformatics tools (install via Conda or Bioconda)
+fastqc
+trim-galore
+bismark
+samtools
+picard
+bedtools
+bsseq
+
+# R dependencies (install via Bioconductor)
+DSS
+bsseq
+ggplot2
+reshape2
+pheatmap
+clusterProfiler
+ChIPseeker
+TxDb.Hsapiens.UCSC.hg38.knownGene
+org.Hs.eg.db
+JASPAR2022
+TFBSTools
+motifmatchr
+regioneR
+Biostrings
+GenomeInfoDb
+Matrix
+Gviz
