@@ -82,12 +82,19 @@ The analysis is divided into **three parts**:
 `Bisulfite_Sequencing_Analysis/`
 
 `│── data/                                  # Raw and processed methylation data`
+
 `│── results/                               # Output files, figures, and reports`
+
 `│── reference/                			 # Reference genome and annotations`
+
 `│── BisulfiteSeq_Preprocessing.ipynb    # Jupyter notebook for preprocessing & methylation calling`
+
 `│── BisulfiteSequencing_DML_DMR_Pathway.R  # DML/DMR pathway analysis`
+
 `│── BisulfiteSeq_DML_DMR_TF.R  # TF enrichment analysis`
+
 `│── README.md               # Project documentation`
+
 `│── requirements.txt        # Dependencies and installation requirements`
 
 
